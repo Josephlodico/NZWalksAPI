@@ -46,24 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T20:50:49.361Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,11 +146,24 @@
               "Title": "WalksController.cs",
               "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs*",
-              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAUwFgAAAAhAAAAAAAAAA==",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwGMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-15T16:27:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:50:49.361Z",
               "EditorCaption": ""
             }
           ]
