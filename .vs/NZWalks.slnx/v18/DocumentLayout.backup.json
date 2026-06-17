@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,40 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SQLWalkRepository.cs",
-              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA0wEEAAAAAAAAAAAAAAA==",
+              "Title": "NZWalksDbContext.cs",
+              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T18:40:25.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IWalkRepository.cs",
-              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IWalkRepository.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
-              "RelativeToolTip": "NZWalks.API\\Repositories\\IWalkRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T18:39:37.344Z",
+              "WhenOpened": "2026-06-17T18:37:03.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WalksController.cs",
-              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
-              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwDEAAAAQAAAAAAAAAA==",
+              "Title": "NZWalksAuthDbContext.cs",
+              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T18:35:29.97Z",
+              "WhenOpened": "2026-06-17T18:31:59.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T15:35:56.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeToolTip": "NZWalks.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T15:29:26.722Z",
               "EditorCaption": ""
             }
           ]
