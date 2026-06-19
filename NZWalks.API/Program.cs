@@ -17,6 +17,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Section 10 in the ASP.NET Course
 var logger = new LoggerConfiguration()
     .WriteTo.Console()
+    .WriteTo.File("Logs/NzWalks_Log.txt", rollingInterval: RollingInterval.Minute)
     .MinimumLevel.Warning()
     .CreateLogger();
 
