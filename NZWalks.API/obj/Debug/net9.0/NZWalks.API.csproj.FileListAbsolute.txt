@@ -342,3 +342,12 @@ J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.AspNetCor
 J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
 J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Serilog.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
