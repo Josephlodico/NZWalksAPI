@@ -8,6 +8,7 @@ namespace NZWalks.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //1
     public class AuthController : ControllerBase
     {
         private readonly UserManager<IdentityUser> userManager;
