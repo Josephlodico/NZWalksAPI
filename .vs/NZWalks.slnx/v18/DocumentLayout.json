@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3338EE43-47E8-40CA-AD43-AFDB58BEFE2B}|NZWalks.UI\\NZWalks.UI.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3338EE43-47E8-40CA-AD43-AFDB58BEFE2B}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3338EE43-47E8-40CA-AD43-AFDB58BEFE2B}|NZWalks.UI\\NZWalks.UI.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3338EE43-47E8-40CA-AD43-AFDB58BEFE2B}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3338EE43-47E8-40CA-AD43-AFDB58BEFE2B}|NZWalks.UI\\NZWalks.UI.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.ui\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3338EE43-47E8-40CA-AD43-AFDB58BEFE2B}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Program.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Program.cs",
-              "RelativeToolTip": "NZWalks.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAiAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.UI\\Views\\Regions\\Index.cshtml*",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T16:26:03.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.UI\\Models\\DTO\\RegionDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Models\\DTO\\RegionDto.cs",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.UI\\Models\\DTO\\RegionDto.cs",
+              "RelativeToolTip": "NZWalks.UI\\Models\\DTO\\RegionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T15:41:49.706Z",
+              "WhenOpened": "2026-06-23T16:19:19.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RegionsController.cs",
+              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:54:19.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegionsController.cs",
               "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
               "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAowGQAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T15:27:40.661Z",
+              "WhenOpened": "2026-06-23T15:59:48.995Z",
               "EditorCaption": ""
             }
           ]
