@@ -11,6 +11,8 @@ using Microsoft.Extensions.FileProviders;
 using Serilog;
 using NZWalks.API.Middlewares;
 
+// Finished The Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
