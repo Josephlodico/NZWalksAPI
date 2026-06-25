@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\",
+  "WorkspaceRootPath": "C:\\JLAddatechPJ\\ASP.NET\\NZWalksAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|c:\\jladdatechpj\\asp.net\\nzwalksapi\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|c:\\jladdatechpj\\asp.net\\nzwalksapi\\nzwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,45 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegionsController.cs",
-              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
-              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T00:07:18.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\JLAddatechPJ\\ASP.NET\\NZWalksAPI\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\JLAddatechPJ\\ASP.NET\\NZWalksAPI\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T00:07:18.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\JLAddatechPJ\\ASP.NET\\NZWalksAPI\\NZWalks.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\AuthController.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\JLAddatechPJ\\ASP.NET\\NZWalksAPI\\NZWalks.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T23:38:29.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T23:38:29.94Z"
             }
           ]
         }
