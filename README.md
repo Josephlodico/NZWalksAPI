@@ -26,6 +26,7 @@ The back end. A RESTful API that manages all data and enforces authentication.
 - **Regions** — geographic areas of New Zealand (e.g. Auckland, Wellington, Canterbury)
 - **Walks** — hiking trails with a name, length, difficulty, and associated region
 - **Difficulties** — difficulty levels (Easy, Medium, Hard) assigned to walks
+- **Reviews** — ratings (1–5) and comments left against a specific walk
 - **Users** — registered accounts with role-based access (Reader / Writer)
 - **Images** — image uploads stored locally
 
@@ -37,11 +38,12 @@ NZWalks.API/
 │   ├── RegionsController.cs        # CRUD endpoints for regions
 │   ├── WalksController.cs          # CRUD endpoints for walks
 │   ├── DifficultiesController.cs   # CRUD endpoints for difficulty levels
+│   ├── ReviewsController.cs        # CRUD endpoints for walk reviews
 │   ├── AuthController.cs           # Register & login → returns JWT token
 │   └── ImagesController.cs         # Image upload handling
 │
 ├── Models/
-│   ├── Domain/                     # Core entities: Region, Walk, Difficulty, Image
+│   ├── Domain/                     # Core entities: Region, Walk, Difficulty, Review, Image
 │   └── DTO/                        # Request/response shapes (what the API exposes)
 │
 ├── Repositories/
@@ -49,6 +51,8 @@ NZWalks.API/
 │   ├── SQLRegionRepository.cs      # EF Core implementation of region data access
 │   ├── IWalkRepository.cs
 │   ├── SQLWalkRepository.cs
+│   ├── IReviewRepository.cs
+│   ├── SQLReviewRepository.cs
 │   └── (etc.)
 │
 ├── Data/
@@ -101,6 +105,15 @@ NZWalks.API/
 | POST | `/api/difficulties` |
 | PUT | `/api/difficulties/{id}` |
 | DELETE | `/api/difficulties/{id}` |
+
+**Reviews** — supports query parameters, tied to a walk via `walkId`
+| Method | Route |
+|--------|-------|
+| GET | `/api/reviews?filterOn=Comment&filterQuery=great&sortBy=Rating&isAscending=true&pageNumber=1&pageSize=10` |
+| GET | `/api/reviews/{id}` |
+| POST | `/api/reviews` |
+| PUT | `/api/reviews/{id}` |
+| DELETE | `/api/reviews/{id}` |
 
 ### Key Concepts in the API
 
@@ -279,3 +292,4 @@ This project was built by following the Udemy course **[Build ASP.NET Core Web A
 - How to implement filtering, sorting, and pagination in a repository using LINQ
 - How global middleware cleanly handles exceptions across the whole API
 - How AutoMapper eliminates repetitive property-copying code between model layers
+- Added the **Reviews** feature myself as practice after finishing the course, replicating the existing Domain/DTO/Repository/Controller pattern end-to-end (including generating the EF Core migration) for a brand-new entity
