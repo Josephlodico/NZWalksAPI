@@ -7,6 +7,9 @@ using NZWalks.API.Repositories;
 
 namespace NZWalks.API.Controllers
 {
+    // /api/reviews
+    [Route("api/[controller]")]
+    [ApiController]
     public class ReviewsController : ControllerBase
     {
         private readonly IMapper mapper;
@@ -74,8 +77,6 @@ namespace NZWalks.API.Controllers
         {
             // Map DTO to Domain Model
             var reviewDomainModel = mapper.Map<Review>(updateReviewRequestDto);
-
-            reviewDomainModel = await mapper.Map<Review>(updateReviewRequestDto);
 
             reviewDomainModel = await reviewRepository.UpdateAsync(id, reviewDomainModel);
 

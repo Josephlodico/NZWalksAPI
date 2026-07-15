@@ -1,5 +1,4 @@
-﻿using Microsoft.Extensions.Logging.Abstractions;
-using NZWalks.API.Models.Domain;
+﻿using NZWalks.API.Models.Domain;
 
 namespace NZWalks.API.Repositories
 {
@@ -7,8 +6,9 @@ namespace NZWalks.API.Repositories
     {
         Task<Review> CreateAsync(Review review);
         Task<List<Review>> GetAllAsync(string? filterOn = null, string? filterQuery = null,
-            string? sortBy = null, bool isAcending = true, int pageNumber = 1, int pageSize = 1000);
-        Task<Review?> GetbyIdAsync(Guid id, Review review);
+            string? sortBy = null, bool isAscending = true, int pageNumber = 1, int pageSize = 1000);
+        Task<Review?> GetByIdAsync(Guid id);
+        Task<Review?> UpdateAsync(Guid id, Review review);
 
         Task<Review?> DeleteAsync(Guid id);
     }

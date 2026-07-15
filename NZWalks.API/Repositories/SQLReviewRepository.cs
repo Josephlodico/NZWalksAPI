@@ -67,11 +67,6 @@ namespace NZWalks.API.Repositories
                 FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public Task<Review?> GetbyIdAsync(Guid id, Review review)
-        {
-            throw new NotImplementedException();
-        }
-
         public async Task<Review?> UpdateAsync(Guid id, Review review)
         {
             var existingReview = await dbContext.Reviews.FirstOrDefaultAsync(x => x.Id == id);
