@@ -1,0 +1,2 @@
+2026-07-15 10:31:26.655 -04:00 [WRN] Failed to determine the https port for redirect.
+2026-07-15 10:31:26.945 -04:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.

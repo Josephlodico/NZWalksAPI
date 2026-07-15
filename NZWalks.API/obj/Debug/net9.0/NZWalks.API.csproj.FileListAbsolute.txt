@@ -532,7 +532,6 @@ C:\JLAddatechPJ\ASP.NET\NZWalksAPI\NZWalks.API\obj\Debug\net9.0\staticwebassets.
 C:\JLAddatechPJ\ASP.NET\NZWalksAPI\NZWalks.API\obj\Debug\net9.0\staticwebassets.development.json
 C:\JLAddatechPJ\ASP.NET\NZWalksAPI\NZWalks.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 C:\JLAddatechPJ\ASP.NET\NZWalksAPI\NZWalks.API\obj\Debug\net9.0\swae.build.ex.cache
-C:\JLAddatechPJ\ASP.NET\NZWalksAPI\NZWalks.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\JLAddatechPJ\ASP.NET\NZWalksAPI\NZWalks.API\obj\Debug\net9.0\NZWalks..A36796ED.Up2Date
 C:\JLAddatechPJ\ASP.NET\NZWalksAPI\NZWalks.API\obj\Debug\net9.0\NZWalks.API.dll
 C:\JLAddatechPJ\ASP.NET\NZWalksAPI\NZWalks.API\obj\Debug\net9.0\refint\NZWalks.API.dll
